@@ -1,6 +1,6 @@
 {
-    "name": "Cloudline Solutions Workflow",
-    "description": "Cloudline Solutions CI starter workflow using Serverless and Golang",
+    "name": "Cloudline Solutions Serverless Workflow",
+    "description": "Cloudline Solutions CI starter workflow using Serverless and Golang, deploying to AWS",
     "iconName": "example-icon",
     "categories": [
         "Go"
